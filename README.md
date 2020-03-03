@@ -1,2 +1,1 @@
-# cw1
-ćwiczenia nr. 1 z APBD
+Hubert Strąk, 21c, s18989
